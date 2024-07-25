@@ -1,7 +1,5 @@
 # Rockbuster Stealth LLC Data Analysis Project
 
-![Rockbuster logo](path/to/logo.png)
-
 ## Overview
 Hello, I am Angelo. As a data analyst hired by Rockbuster Stealth LLC, a movie rental company transitioning to an online video rental service, my task is to analyze the company's data using SQL to make strategic decisions. This project involves loading Rockbuster's data into a relational database management system (RDBMS), querying the data, and presenting actionable insights to the board of directors to help compete with streaming giants like Netflix.
 
